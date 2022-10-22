@@ -15,7 +15,7 @@
 
 </div>
     <div class="w-full my-5 flex flex-row sm:w-3/5 items-center justify-center">
-      <a href="https://twitter.com/Abhijit__dev" class="mx-1 sm:mx-5"
+      <a href="https://twitter.com/Abhijitroy_dev" class="mx-1 sm:mx-5"
         ><img src="https://img.icons8.com/ios-glyphs/60/000000/twitter--v1.png" class="w-9/12"
       /></a>
       <a href="/" class="mx-1 sm:mx-5"
